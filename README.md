@@ -1,4 +1,4 @@
-- Hi, I’m Anurag Miskin currently in 1st year of information science engineering
+- Hi, I’m Anurag Miskin currently in 2nd year of information science engineering
 - I’m interested in Web development, Android development and game development
 - I’m currently learning basic fundamentals of coding using Java 
 - You can always mail me at anuragmiskin@gmail.com
